@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there <a href="https://www.ashishsharma.online/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**Sharma-Aashi/Sharma-Aashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Express, Docker
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React
+- 👨‍💻 &nbsp;Read more about my projects at [ashishsharma.online](https://www.ashishsharma.online)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and reading books
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨&nbsp; About Me
+
+I am a Frontend Developer with 5 years of experience in developing enterprise applications.
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ashish-sharma-996600/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish Sharma" height="30" width="40" /></a>
