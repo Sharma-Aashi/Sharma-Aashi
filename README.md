@@ -10,6 +10,7 @@
 ### ✨&nbsp; About Me
 
 I am a Frontend Developer with 5 years of experience in developing enterprise applications.
+My primary skills include html, css, javascript , typescript , Angular, Reactjs, RxJs, NgRx.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
